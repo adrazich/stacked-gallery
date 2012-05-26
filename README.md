@@ -91,7 +91,7 @@ Settings
 Download
 ---
 
-[Download Stacked Gallery] (https://github.com/adrazich/test/downloads)
+[Download Stacked Gallery] (https://github.com/adrazich/stacked-gallery/downloads)
 
 Demo
 ---
@@ -106,7 +106,7 @@ License
 ---
 
 Copyright (c) 2012 Anna Drazich
-Dual licensed under the [MIT] (https://github.com/adrazich/test/blob/master/MIT-License.txt) and [GPL] (https://github.com/adrazich/test/blob/master/GPL-License.txt) licenses.
+Dual licensed under the [MIT] (https://github.com/adrazich/stacked-gallery/blob/master/MIT-License.txt) and [GPL] (https://github.com/adrazich/stacked-gallery/blob/master/GPL-License.txt) licenses.
 
 ###More information about these licenses
   - [MIT License Wiki] (http://en.wikipedia.org/wiki/MIT_License) 
