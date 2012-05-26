@@ -106,6 +106,7 @@ License
 ---
 
 Copyright (c) 2012 Anna Drazich
+
 Dual licensed under the [MIT] (https://github.com/adrazich/stacked-gallery/blob/master/MIT-License.txt) and [GPL] (https://github.com/adrazich/stacked-gallery/blob/master/GPL-License.txt) licenses.
 
 ###More information about these licenses
