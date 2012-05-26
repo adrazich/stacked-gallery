@@ -1,0 +1,20 @@
+/* stacked-gallery.css - Pretty stacked photos that can be clicked through
+// Version: 1.0
+// Author: Anna Drazich
+// Website: http://www.initanna.com/stacked-gallery/
+// Github: https://github.com/adrazich/stacked-gallery
+//
+// Copyright (c) 2012 Anna Drazich
+// Dual licensed under the MIT and GPL licenses.
+// MIT License: https://github.com/adrazich/stacked-gallery/blob/master/MIT-License.txt
+// GPL License: https://github.com/adrazich/stacked-gallery/blob/master/GPL-License.txt
+*/
+.stacked-gallery .photos { position:relative; }
+.stacked-gallery .photos .photo { position:absolute; }
+.stacked-gallery .photos .active {  }
+.stacked-gallery .photos .controls { position:absolute; background-color:#000; opacity:0.8; z-index:999; display:none; height:35px !important; }
+.stacked-gallery .photos .controls UL { list-style:none; margin:0; padding:0; }
+.stacked-gallery .photos .controls UL LI { float:left; background:url(images/ui.png) no-repeat 0 0 transparent; text-indent:-9999em;
+  width:26px; height:26px; opacity:0.5; margin-right:15px; cursor:pointer; }
+.stacked-gallery .photos .controls UL LI:hover { opacity:1.0; }
+.stacked-gallery .photos .controls UL LI.fullview { background-position:-26px 0 !important; }
