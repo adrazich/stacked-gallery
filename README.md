@@ -96,7 +96,7 @@ Download
 Demo
 ---
 
-You can view a demo at [http://www.initanna.com/stacked-gallery/] (http://www.initanna.com/stacked-gallery/).
+You can view a demo at [http://www.initanna.com/stacked-gallery] (http://www.initanna.com/stacked-gallery).
 
 Browser Support
 ---
