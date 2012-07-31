@@ -11,6 +11,7 @@
 */
 .stacked-gallery .photos { position:relative; }
 .stacked-gallery .photos .photo { position:absolute; }
+.stacked-gallery .photos .photo IMG { height:auto; width:auto; }
 .stacked-gallery .photos .active {  }
 .stacked-gallery .photos .controls { position:absolute; background-color:#000; opacity:0.8; z-index:999; display:none; height:35px !important; }
 .stacked-gallery .photos .controls UL { list-style:none; margin:0; padding:0; }
